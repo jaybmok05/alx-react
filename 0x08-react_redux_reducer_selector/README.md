@@ -1,12 +1,5 @@
 ## 0x08. React Redux reducer+selector
 
-### :open_file_folder: Specializations - Web Stack programming ― Back-end
-
-
-<p align="center">
-    <img src="https://martinc.me/images/allpost/react-redux.jpg" alt="React + Redux image">
-</p>
-
 ## :closed_book: Resources
 
 * [Reducers](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers)
